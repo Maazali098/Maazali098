@@ -1,3 +1,4 @@
+![logo](https://github.com/Maazali098/Maazali098/blob/main/github%20banner.png)
 # Hi 👋, I'm Maaz Ali
 
 **🚀 Data Scientist | Data Analyst | Aspiring Financial Analyst**

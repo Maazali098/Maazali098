@@ -21,8 +21,7 @@ I thrive on solving complex problems and building impactful solutions.
 ---
 
 ## 📈 Key Accomplishments
-- 🎯 Ranked AIR 106772 in JEE MAINS 2021, among thousands of candidates nationwide.
-- 🏆 Achieved 118th Rank in a competitive aptitude test conducted by IES MASTER during my B.Tech.
+- 🎯 I've secured 82 percentile in JEE MAINS 2021, among thousands of candidates nationwide.
 - 🤝 Successfully leading HOSPITALITY COMMITTEE as HEAD at AKGEC, Ghaziabad.
 
 ---

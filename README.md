@@ -23,8 +23,24 @@ I thrive on solving complex problems and building impactful solutions.
 ## 📈 Key Accomplishments
 - 🎯 I've secured 82 percentile in JEE MAINS 2021, among thousands of candidates nationwide.
 - 🤝 Successfully leading HOSPITALITY COMMITTEE as HEAD at AKGEC, Ghaziabad.
+- Data Analytics Job Simulation certification by TATA forage.
+- Achieved certification by NPTEL for English course.
+- Achieved certification of Infosys Springboot in Python course.
+- Data Analytics Job Simulation certification by Deloitte.
+- Achieved certification of Java Programming course.
 
 ---
+##  Professional Experience
+
+## Machine Learning Intern — Prodigy Infotech (July 2024– Aug 2024)
+ • Objective Develop and apply machine learning models to solve classification and prediction problems.
+ • Approach Used Python, Pandas, and Scikit-learn for data preprocessing, model building, and evaluation on real datasets.                                           • Impact Improved model accuracy through iterative tuning; showcased results in interactive Jupyter notebooks
+ 
+## Data Analyst Intern — OctaNet services. (aug 2024- sept.2024)
+ • Objective To analyze business data and derive actionable insights to support data-driven decision-making.
+ • Approach Used Excel, SQL, and Python to clean, visualize, and interpret large datasets; created dashboards and reports for
+ key metrics.
+ • Impact Helped identify trends and patterns that improved operational efficiency and informed strategic planning.
 
 ## 🌟 Featured Projects
 
@@ -54,10 +70,10 @@ I thrive on solving complex problems and building impactful solutions.
 
 ## 💻 Technical Proficiency
 
-- **Programming:** Python, SQL
+- **Programming:** Python, SQL,R(basics)
 - **Libraries & Frameworks:** TensorFlow, Keras, Scikit-learn, NLTK, SpaCy
 - **Data Visualization:** Power BI, Matplotlib, Seaborn
-- **Tools:** MySQL, Pandas, NumPy, Jupyter Notebook, Google Colab
+- **Tools:** MySQL, Pandas, NumPy, Jupyter Notebook, Google Colab,ms EXCEL
 - **Specialties:** Time Series Analysis, Portfolio Optimization, Machine Learning, Deep Learning, NLP
 
 ---
